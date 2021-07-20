@@ -1,0 +1,13 @@
+com\alibaba\blink\udx\CountUdaf.class
+com\alibaba\blink\udx\SplitUdtf.class
+com\alibaba\blink\udx\RemoverWhitespace.class
+com\alibaba\blink\udx\CountUdaf$CountAccum.class
+com\alibaba\blink\udx\ToUpperCase.class
+com\alibaba\blink\udx\ToLowerCase.class
+com\alibaba\blink\udx\AvgUdaf$AvgAccum.class
+com\alibaba\blink\udx\IntToLong.class
+com\alibaba\blink\udx\StringLengthUdf.class
+com\alibaba\blink\udx\HumpToUnderline.class
+com\alibaba\blink\udx\underlineToHump.class
+com\alibaba\blink\udx\NginxLogParserUdtf.class
+com\alibaba\blink\udx\AvgUdaf.class
